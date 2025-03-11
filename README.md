@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-sambidi&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-sambidi" /> </p>
 
 - 🎓 I graduated with a Master's degree in Computer Science from Arizona State University
-- 🔭 I’m currently working on building AI agent at @ to imrpove professional netwroking
+- 🔭 I’m currently building an AI agent at [Ascend](https://www.myascend.ai) and engineering the agentic workflow
 - 🌱 I’m currently learning AWS, Databricks, and LangGraph
 - 💬 Ask me about my projects on jailbreaking LLMs 😲 and Neuro-Symbolic AI 😎
 
