@@ -6,7 +6,7 @@
 - 🎓 I graduated with a Master's degree in Computer Science from Arizona State University
 - 🔭 I’m currently building an AI agent at [Ascend](https://www.myascend.ai) and engineering the agentic workflow
 - 🌱 I’m currently learning AWS, Databricks, and LangGraph
-- 💬 Ask me about my projects on jailbreaking LLMs 😲 and Neuro-Symbolic AI 😎
+- 💬 Ask me about my projects on jailbreaking LLMs and Neuro-Symbolic AI
 
 ![](https://raw.githubusercontent.com/Rohan-Sambidi/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/Rohan-Sambidi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
