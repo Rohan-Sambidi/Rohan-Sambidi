@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rohan</h1>
+<h3 align="center">Master's degree in Computer Science from ASU</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-sambidi&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-sambidi" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <!--
 **Rohan-Sambidi/Rohan-Sambidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
